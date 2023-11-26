@@ -1,4 +1,4 @@
-# TJHSTT Artificial Intelligence 2021 - 2022
+# TJHSST Artificial Intelligence 2021 - 2022
 
 My artificial intelligence class created my passion for  Computer Science. We used Python as our coding language. The course began with hands-on exercises on platforms like CodingBat, providing a strong foundation for programming. The diversity of projects was a standout feature, ranging from crafting one-line regular expressions to developing an AI that adeptly solved crosswords and mastered the strategic nuances of Othello. <br>
 
